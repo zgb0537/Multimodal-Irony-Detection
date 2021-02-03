@@ -1,0 +1,4 @@
+# Needed packages/versions
+numpy>=1.15.1
+spacy>=2.1.8
+spacymoji>=2.0.0
